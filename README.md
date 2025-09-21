@@ -20,6 +20,7 @@ On Wokwi, I designed a simple circuit:
 * You press a button.
 * A buzzer makes a noise (So the action is heard).
 * An LED lights up (A small light of hope).
+* When the goal of 30 donations is reached, the box celebrates with a special light and sound show!
 
 Simple. But it's always the idea that counts.
 
