@@ -28,7 +28,7 @@ Simple. But it's always the idea that counts.
 What I used :
 
 * The Idea: My own.
-* The Push: My mom.
+* The Push: My mom (My biggest SUPPORTER).
 * The Tool: Wokwi (Thanks to my teacher!).
 * The Design: I designed the circuit myself.
 
