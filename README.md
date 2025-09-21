@@ -1,41 +1,43 @@
-My Hope Box Project 🇵🇸
+My Hope Box Project 🇵🇸❤️ :
 
-This is a small project I made myself: a donation box simulator for the kids of Palestine. It’s nothing fancy, but it means a lot to me.
-
-
-Why I did this ?: 
-
-Honestly, I just felt like I had to do something.
-
-I’m 14, from Tunisia, and seeing what’s happening in Gaza every day just breaks my heart. This all hit me even harder after I earned a certificate from UNICEF. It wasn't just a course; it made me think constantly about children's rights and how easily they can be lost.
-
-Then, I saw the “Samoud Convoy” leaving from my own country. I couldn’t go, and I felt completely powerless. I use my TikTok to talk about the Qur'an and sometimes Palestine, but I wanted to do more than just post.
-
-So I asked myself: what can I *actually* do?
-Well… I love designing things and I'm interested in electronics. This project is my answer.
+This is a small project I designed on my computer. It's not a real box, just an idea for the kids in Palestine. But it's important to me.
 
 
-How it works ?? :
+The story behind this :
 
-It’s super simple, I designed and built the circuit on Wokwi:
+Honestly, I just felt useless (The worst consciousness that someone can feel)
 
-*   You press a button (like giving a donation).
-*   A buzzer makes a sound (so the action is heard).
-*   A little LED lights up (a small light of hope).
-
-That’s it. Not complicated. But for me, it shows that even the smallest action can still make a noise and shine a light.
-
-
-Tools I used
-
-*   Concept & Circuit Design: My own idea.
-*   Platform: Wokwi Electronics Simulator.
-*   Components: Arduino, a button, an LED, and a buzzer.
+I'm 14, from Tunisia. The news from Gaza is hard to watch. I also did a UNICEF course and it got me thinking a lot about kids' rights. Then the "Samoud Convoy" left from my country. I couldn't go and felt totally stuck.
+I'm a problem-solver, it's why I'm good at math (I even won first place in my state's olympiad against older students). My brain always wants to find a solution. But this time, I had no idea what to do.
+I told my mom I felt powerless. She's the one who said "you don't have to be there to help. You can do something from right here." That idea stuck in my head.
+So, I thought I'd build a real donation box. But the parts cost money I didn't have. Another dead end. I almost gave up, but I talked to my tech teacher. She's the one who told me about a free website, Wokwi. A place where I could build my circuit online. She basically saved the project.
+So yeah, between my mom's words and my teacher's advice, this project happened. It's my way of being in the convoy, but online.
 
 
-What I learned from this ? :
+How it works :
 
-I guess I learned you don’t have to wait for someone to tell you what to do. You can just use what you have, right now, to stand for what you believe in. It felt a lot better to build this than to do nothing.
+On Wokwi, I designed a simple circuit:
+* You press a button.
+* A buzzer makes a noise (So the action is heard).
+* An LED lights up (A small light of hope).
+
+Simple. But it's always the idea that counts.
 
 
-This is my tiny message of hope. From me in Tunisia, to them.
+
+What I used :
+
+* The Idea: My own.
+* The Push: My mom.
+* The Tool: Wokwi (Thanks to my teacher!).
+* The Design: I designed the circuit myself.
+
+
+What I learned :
+
+I guess I learned that you don't have to give up. Can't go? Do something from home. Can't buy parts? Find a free tool. It's not just about being smart, it's about finding a way. And listening to people who want to help you.
+
+It felt good to build something instead of just watching.
+
+
+This is my small message of hope from Tunisia.
